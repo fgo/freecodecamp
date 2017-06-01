@@ -8,7 +8,7 @@ Front End Development challenges.
 
 ### HTML5 and CSS
 
-- [ ] Say Hello to HTML Elements
+- [x] Say Hello to HTML Elements
 - [ ] Headline with the h2 Element
 - [ ] Inform with the Paragraph Element
 - [ ] Uncomment HTML
