@@ -10,7 +10,7 @@ Front End Development challenges.
 
 - [x] Say Hello to HTML Elements
 - [x] Headline with the h2 Element
-- [ ] Inform with the Paragraph Element
+- [x] Inform with the Paragraph Element
 - [ ] Uncomment HTML
 - [ ] Comment out HTML
 - [ ] Fill in the Blank with Placeholder Text
