@@ -17,7 +17,7 @@ Front End Development challenges.
 - [x] Delete HTML Elements
 - [x] Change the Color of Text
 - [x] Use CSS Selectors to Style Elements
-- [ ] Use a CSS Class to Style an Element
+- [x] Use a CSS Class to Style an Element
 - [ ] Style Multiple Elements with a CSS Class
 - [ ] Change the Font Size of an Element
 - [ ] Set the Font Family of an Element
