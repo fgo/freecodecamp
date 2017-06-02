@@ -13,7 +13,7 @@ Front End Development challenges.
 - [x] Inform with the Paragraph Element
 - [x] Uncomment HTML
 - [x] Comment out HTML
-- [ ] Fill in the Blank with Placeholder Text
+- [x] Fill in the Blank with Placeholder Text
 - [ ] Delete HTML Elements
 - [ ] Change the Color of Text
 - [ ] Use CSS Selectors to Style Elements
