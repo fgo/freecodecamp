@@ -15,7 +15,7 @@ Front End Development challenges.
 - [x] Comment out HTML
 - [x] Fill in the Blank with Placeholder Text
 - [x] Delete HTML Elements
-- [ ] Change the Color of Text
+- [x] Change the Color of Text
 - [ ] Use CSS Selectors to Style Elements
 - [ ] Use a CSS Class to Style an Element
 - [ ] Style Multiple Elements with a CSS Class
