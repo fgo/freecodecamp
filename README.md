@@ -12,7 +12,7 @@ Front End Development challenges.
 - [x] Headline with the h2 Element
 - [x] Inform with the Paragraph Element
 - [x] Uncomment HTML
-- [ ] Comment out HTML
+- [x] Comment out HTML
 - [ ] Fill in the Blank with Placeholder Text
 - [ ] Delete HTML Elements
 - [ ] Change the Color of Text
