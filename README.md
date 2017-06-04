@@ -24,7 +24,7 @@ Front End Development challenges.
 - [x] Import a Google Font
 - [x] Specify How Fonts Should Degrade
 - [x] Add Images to your Website
-- [ ] Size your Images
+- [x] Size your Images
 - [ ] Add Borders Around your Elements
 - [ ] Add Rounded Corners with a Border Radius
 - [ ] Make Circular Images with a Border Radius
