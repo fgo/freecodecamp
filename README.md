@@ -18,7 +18,7 @@ Front End Development challenges.
 - [x] Change the Color of Text
 - [x] Use CSS Selectors to Style Elements
 - [x] Use a CSS Class to Style an Element
-- [ ] Style Multiple Elements with a CSS Class
+- [x] Style Multiple Elements with a CSS Class
 - [ ] Change the Font Size of an Element
 - [ ] Set the Font Family of an Element
 - [ ] Import a Google Font
