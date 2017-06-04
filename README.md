@@ -23,7 +23,7 @@ Front End Development challenges.
 - [x] Set the Font Family of an Element
 - [x] Import a Google Font
 - [x] Specify How Fonts Should Degrade
-- [ ] Add Images to your Website
+- [x] Add Images to your Website
 - [ ] Size your Images
 - [ ] Add Borders Around your Elements
 - [ ] Add Rounded Corners with a Border Radius
