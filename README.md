@@ -26,7 +26,7 @@ Front End Development challenges.
 - [x] Add Images to your Website
 - [x] Size your Images
 - [x] Add Borders Around your Elements
-- [ ] Add Rounded Corners with a Border Radius
+- [x] Add Rounded Corners with a Border Radius
 - [ ] Make Circular Images with a Border Radius
 - [ ] Link to External Pages with Anchor Elements
 - [ ] Nest an Anchor Element within a Paragraph
