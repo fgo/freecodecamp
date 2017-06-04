@@ -22,7 +22,7 @@ Front End Development challenges.
 - [x] Change the Font Size of an Element
 - [x] Set the Font Family of an Element
 - [x] Import a Google Font
-- [ ] Specify How Fonts Should Degrade
+- [x] Specify How Fonts Should Degrade
 - [ ] Add Images to your Website
 - [ ] Size your Images
 - [ ] Add Borders Around your Elements
