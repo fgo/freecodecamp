@@ -28,7 +28,7 @@ Front End Development challenges.
 - [x] Add Borders Around your Elements
 - [x] Add Rounded Corners with a Border Radius
 - [x] Make Circular Images with a Border Radius
-- [ ] Link to External Pages with Anchor Elements
+- [x] Link to External Pages with Anchor Elements
 - [ ] Nest an Anchor Element within a Paragraph
 - [ ] Make Dead Links using the Hash Symbol
 - [ ] Turn an Image into a Link
