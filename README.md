@@ -21,7 +21,7 @@ Front End Development challenges.
 - [x] Style Multiple Elements with a CSS Class
 - [x] Change the Font Size of an Element
 - [x] Set the Font Family of an Element
-- [ ] Import a Google Font
+- [x] Import a Google Font
 - [ ] Specify How Fonts Should Degrade
 - [ ] Add Images to your Website
 - [ ] Size your Images
