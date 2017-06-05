@@ -30,7 +30,7 @@ Front End Development challenges.
 - [x] Make Circular Images with a Border Radius
 - [x] Link to External Pages with Anchor Elements
 - [x] Nest an Anchor Element within a Paragraph
-- [ ] Make Dead Links using the Hash Symbol
+- [x] Make Dead Links using the Hash Symbol
 - [ ] Turn an Image into a Link
 - [ ] Create a Bulleted Unordered List
 - [ ] Create an Ordered List
