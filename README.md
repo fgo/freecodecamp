@@ -33,7 +33,7 @@ Front End Development challenges.
 - [x] Make Dead Links using the Hash Symbol
 - [x] Turn an Image into a Link
 - [x] Create a Bulleted Unordered List
-- [ ] Create an Ordered List
+- [x] Create an Ordered List
 - [ ] Create a Text Field
 - [ ] Add Placeholder Text to a Text Field
 - [ ] Create a Form Element
