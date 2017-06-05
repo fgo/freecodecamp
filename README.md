@@ -35,7 +35,7 @@ Front End Development challenges.
 - [x] Create a Bulleted Unordered List
 - [x] Create an Ordered List
 - [x] Create a Text Field
-- [ ] Add Placeholder Text to a Text Field
+- [x] Add Placeholder Text to a Text Field
 - [ ] Create a Form Element
 - [ ] Add a Submit Button to a Form
 - [ ] Use HTML5 to Require a Field
