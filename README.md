@@ -38,7 +38,7 @@ Front End Development challenges.
 - [x] Add Placeholder Text to a Text Field
 - [x] Create a Form Element
 - [x] Add a Submit Button to a Form
-- [ ] Use HTML5 to Require a Field
+- [x] Use HTML5 to Require a Field
 - [ ] Create a Set of Radio Buttons
 - [ ] Create a Set of Checkboxes
 - [ ] Check Radio Buttons and Checkboxes by Default
