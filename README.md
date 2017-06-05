@@ -31,7 +31,7 @@ Front End Development challenges.
 - [x] Link to External Pages with Anchor Elements
 - [x] Nest an Anchor Element within a Paragraph
 - [x] Make Dead Links using the Hash Symbol
-- [ ] Turn an Image into a Link
+- [x] Turn an Image into a Link
 - [ ] Create a Bulleted Unordered List
 - [ ] Create an Ordered List
 - [ ] Create a Text Field
