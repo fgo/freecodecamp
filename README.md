@@ -34,7 +34,7 @@ Front End Development challenges.
 - [x] Turn an Image into a Link
 - [x] Create a Bulleted Unordered List
 - [x] Create an Ordered List
-- [ ] Create a Text Field
+- [x] Create a Text Field
 - [ ] Add Placeholder Text to a Text Field
 - [ ] Create a Form Element
 - [ ] Add a Submit Button to a Form
