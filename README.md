@@ -36,7 +36,7 @@ Front End Development challenges.
 - [x] Create an Ordered List
 - [x] Create a Text Field
 - [x] Add Placeholder Text to a Text Field
-- [ ] Create a Form Element
+- [x] Create a Form Element
 - [ ] Add a Submit Button to a Form
 - [ ] Use HTML5 to Require a Field
 - [ ] Create a Set of Radio Buttons
