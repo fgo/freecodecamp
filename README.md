@@ -41,7 +41,7 @@ Front End Development challenges.
 - [x] Use HTML5 to Require a Field
 - [x] Create a Set of Radio Buttons
 - [x] Create a Set of Checkboxes
-- [ ] Check Radio Buttons and Checkboxes by Default
+- [x] Check Radio Buttons and Checkboxes by Default
 - [ ] Nest Many Elements within a Single Div Element
 - [ ] Give a Background Color to a Div Element
 - [ ] Set the ID of an Element
