@@ -42,7 +42,7 @@ Front End Development challenges.
 - [x] Create a Set of Radio Buttons
 - [x] Create a Set of Checkboxes
 - [x] Check Radio Buttons and Checkboxes by Default
-- [ ] Nest Many Elements within a Single Div Element
+- [x] Nest Many Elements within a Single Div Element
 - [ ] Give a Background Color to a Div Element
 - [ ] Set the ID of an Element
 - [ ] Use an ID Attribute to Style an Element
