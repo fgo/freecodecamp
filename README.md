@@ -39,7 +39,7 @@ Front End Development challenges.
 - [x] Create a Form Element
 - [x] Add a Submit Button to a Form
 - [x] Use HTML5 to Require a Field
-- [ ] Create a Set of Radio Buttons
+- [x] Create a Set of Radio Buttons
 - [ ] Create a Set of Checkboxes
 - [ ] Check Radio Buttons and Checkboxes by Default
 - [ ] Nest Many Elements within a Single Div Element
