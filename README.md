@@ -48,7 +48,7 @@ Front End Development challenges.
 - [x] Use an ID Attribute to Style an Element
 - [x] Adjusting the Padding of an Element
 - [x] Adjust the Margin of an Element
-- [ ] Add a Negative Margin to an Element
+- [x] Add a Negative Margin to an Element
 - [ ] Add Different Padding to Each Side of an Element
 - [ ] Add Different Margins to Each Side of an Element
 - [ ] Use Clockwise Notation to Specify the Padding of an Element
