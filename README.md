@@ -47,7 +47,7 @@ Front End Development challenges.
 - [x] Set the ID of an Element
 - [x] Use an ID Attribute to Style an Element
 - [x] Adjusting the Padding of an Element
-- [ ] Adjust the Margin of an Element
+- [x] Adjust the Margin of an Element
 - [ ] Add a Negative Margin to an Element
 - [ ] Add Different Padding to Each Side of an Element
 - [ ] Add Different Margins to Each Side of an Element
