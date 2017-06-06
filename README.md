@@ -44,7 +44,7 @@ Front End Development challenges.
 - [x] Check Radio Buttons and Checkboxes by Default
 - [x] Nest Many Elements within a Single Div Element
 - [x] Give a Background Color to a Div Element
-- [ ] Set the ID of an Element
+- [x] Set the ID of an Element
 - [ ] Use an ID Attribute to Style an Element
 - [ ] Adjusting the Padding of an Element
 - [ ] Adjust the Margin of an Element

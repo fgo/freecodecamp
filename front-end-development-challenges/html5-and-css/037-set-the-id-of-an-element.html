@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Set the ID of an Element - Front End Development Certification</title>
+  <meta name="description" content="Set the ID of an Element HTML5 and CSS Challenge">
+  <meta name="author" content="Francis Go">
+
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+  <style>
+    h2 {
+      font-family: 'Lobster', Monospace, cursive;
+    }
+    p {
+      font-size: 16px;
+      font-family: Monospace;
+    }
+    .red-text {
+      color: red;
+    }
+    .smaller-image {
+      width: 100px;
+    }
+    .thick-green-border {
+      border-color: green;
+      border-width: 10px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+    .silver-background {
+      background-color: silver;
+    }
+  </style>
+</head>
+<body>
+  <h2 class="red-text">CatPhotoApp</h2>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" class="smaller-image thick-green-border" alt="Author standing on a beach with two thumbs up."></a>
+
+  <p>View more <a href="#">cat photos</a></p>
+
+  <div class="silver-background">
+    <p>Things cats love:</p>
+    <ul>
+      <li>Milk</li>
+      <li>Cheese</li>
+      <li>Sleep</li>
+    </ul>
+
+    <p>Top 3 things cats hate:</p>
+    <ol>
+      <li>Car rides</li>
+      <li>Baths</li>
+      <li>Loud noises</li>
+    </ol>
+  </div>
+
+  <form action="/submit-cat-photo" id="cat-photo-form">
+    <label><input type="radio" name="indoor-outdoor" checked>Indoor</label>
+    <label><input type="radio" name="indoor-outdoor">Outdoor</label>
+
+    <label><input type="checkbox" name="personality" checked>Loving</label>
+    <label><input type="checkbox" name="personality">Friendly</label>
+    <label><input type="checkbox" name="personality">Outgoing</label>
+
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
+  </form>
+</body>
