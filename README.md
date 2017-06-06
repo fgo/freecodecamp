@@ -46,7 +46,7 @@ Front End Development challenges.
 - [x] Give a Background Color to a Div Element
 - [x] Set the ID of an Element
 - [x] Use an ID Attribute to Style an Element
-- [ ] Adjusting the Padding of an Element
+- [x] Adjusting the Padding of an Element
 - [ ] Adjust the Margin of an Element
 - [ ] Add a Negative Margin to an Element
 - [ ] Add Different Padding to Each Side of an Element
