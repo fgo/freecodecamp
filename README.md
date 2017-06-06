@@ -45,7 +45,7 @@ Front End Development challenges.
 - [x] Nest Many Elements within a Single Div Element
 - [x] Give a Background Color to a Div Element
 - [x] Set the ID of an Element
-- [ ] Use an ID Attribute to Style an Element
+- [x] Use an ID Attribute to Style an Element
 - [ ] Adjusting the Padding of an Element
 - [ ] Adjust the Margin of an Element
 - [ ] Add a Negative Margin to an Element
