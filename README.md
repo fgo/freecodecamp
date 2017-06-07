@@ -58,7 +58,7 @@ Front End Development challenges.
 - [x] Prioritize One Style Over Another
 - [x] Override Styles in Subsequent CSS
 - [x] Override Class Declarations by Styling ID Attributes
-- [ ] Override Class Declarations with Inline Styles
+- [x] Override Class Declarations with Inline Styles
 - [ ] Override All Other Styles by using Important
 - [ ] Use Hex Code for Specific Colors
 - [ ] Use Hex Code to Mix Colors
