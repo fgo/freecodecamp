@@ -52,7 +52,7 @@ Front End Development challenges.
 - [x] Add Different Padding to Each Side of an Element
 - [x] Add Different Margins to Each Side of an Element
 - [x] Use Clockwise Notation to Specify the Padding of an Element
-- [ ] Use Clockwise Notation to Specify the Margin of an Element
+- [x] Use Clockwise Notation to Specify the Margin of an Element
 - [ ] Style the HTML Body Element
 - [ ] Inherit Styles from the Body Element
 - [ ] Prioritize One Style Over Another
