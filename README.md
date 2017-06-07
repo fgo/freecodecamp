@@ -55,7 +55,7 @@ Front End Development challenges.
 - [x] Use Clockwise Notation to Specify the Margin of an Element
 - [x] Style the HTML Body Element
 - [x] Inherit Styles from the Body Element
-- [ ] Prioritize One Style Over Another
+- [x] Prioritize One Style Over Another
 - [ ] Override Styles in Subsequent CSS
 - [ ] Override Class Declarations by Styling ID Attributes
 - [ ] Override Class Declarations with Inline Styles
