@@ -59,7 +59,7 @@ Front End Development challenges.
 - [x] Override Styles in Subsequent CSS
 - [x] Override Class Declarations by Styling ID Attributes
 - [x] Override Class Declarations with Inline Styles
-- [ ] Override All Other Styles by using Important
+- [x] Override All Other Styles by using Important
 - [ ] Use Hex Code for Specific Colors
 - [ ] Use Hex Code to Mix Colors
 - [ ] Use Abbreviated Hex Code
