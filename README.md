@@ -63,7 +63,7 @@ Front End Development challenges.
 - [x] Use Hex Code for Specific Colors
 - [x] Use Hex Code to Mix Colors
 - [x] Use Abbreviated Hex Code
-- [ ] Use RGB values to Color Elements
+- [x] Use RGB values to Color Elements
 - [ ] Use RGB to Mix Colors
 
 ### Responsive Design with Bootstrap
