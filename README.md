@@ -50,7 +50,7 @@ Front End Development challenges.
 - [x] Adjust the Margin of an Element
 - [x] Add a Negative Margin to an Element
 - [x] Add Different Padding to Each Side of an Element
-- [ ] Add Different Margins to Each Side of an Element
+- [x] Add Different Margins to Each Side of an Element
 - [ ] Use Clockwise Notation to Specify the Padding of an Element
 - [ ] Use Clockwise Notation to Specify the Margin of an Element
 - [ ] Style the HTML Body Element
