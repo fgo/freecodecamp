@@ -56,7 +56,7 @@ Front End Development challenges.
 - [x] Style the HTML Body Element
 - [x] Inherit Styles from the Body Element
 - [x] Prioritize One Style Over Another
-- [ ] Override Styles in Subsequent CSS
+- [x] Override Styles in Subsequent CSS
 - [ ] Override Class Declarations by Styling ID Attributes
 - [ ] Override Class Declarations with Inline Styles
 - [ ] Override All Other Styles by using Important
