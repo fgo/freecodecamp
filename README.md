@@ -68,7 +68,7 @@ Front End Development challenges.
 
 ### Responsive Design with Bootstrap
 
-- [ ] Use Responsive Design with Bootstrap Fluid Containers
+- [x] Use Responsive Design with Bootstrap Fluid Containers
 - [ ] Make Images Mobile Responsive
 - [ ] Center Text with Bootstrap
 - [ ] Create a Bootstrap Button
