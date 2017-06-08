@@ -72,7 +72,7 @@ Front End Development challenges.
 - [x] Make Images Mobile Responsive
 - [x] Center Text with Bootstrap
 - [x] Create a Bootstrap Button
-- [ ] Create a Block Element Bootstrap Button
+- [x] Create a Block Element Bootstrap Button
 - [ ] Taste the Bootstrap Button Color Rainbow
 - [ ] Call out Optional Actions with Button Info
 - [ ] Warn your Users of a Dangerous Action
