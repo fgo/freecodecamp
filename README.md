@@ -80,7 +80,7 @@ Front End Development challenges.
 - [x] Ditch Custom CSS for Bootstrap
 - [x] Use Spans for Inline Elements
 - [x] Create a Custom Heading
-- [ ] Add Font Awesome Icons to our Buttons
+- [x] Add Font Awesome Icons to our Buttons
 - [ ] Add Font Awesome Icons to all of our Buttons
 - [ ] Responsively Style Radio Buttons
 - [ ] Responsively Style Checkboxes
