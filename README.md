@@ -76,7 +76,7 @@ Front End Development challenges.
 - [x] Taste the Bootstrap Button Color Rainbow
 - [x] Call out Optional Actions with Button Info
 - [x] Warn your Users of a Dangerous Action
-- [ ] Use the Bootstrap Grid to Put Elements Side By Side
+- [x] Use the Bootstrap Grid to Put Elements Side By Side
 - [ ] Ditch Custom CSS for Bootstrap
 - [ ] Use Spans for Inline Elements
 - [ ] Create a Custom Heading
