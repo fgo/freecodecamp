@@ -81,7 +81,7 @@ Front End Development challenges.
 - [x] Use Spans for Inline Elements
 - [x] Create a Custom Heading
 - [x] Add Font Awesome Icons to our Buttons
-- [ ] Add Font Awesome Icons to all of our Buttons
+- [x] Add Font Awesome Icons to all of our Buttons
 - [ ] Responsively Style Radio Buttons
 - [ ] Responsively Style Checkboxes
 - [ ] Style Text Inputs as Form Controls
