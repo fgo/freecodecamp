@@ -77,7 +77,7 @@ Front End Development challenges.
 - [x] Call out Optional Actions with Button Info
 - [x] Warn your Users of a Dangerous Action
 - [x] Use the Bootstrap Grid to Put Elements Side By Side
-- [ ] Ditch Custom CSS for Bootstrap
+- [x] Ditch Custom CSS for Bootstrap
 - [ ] Use Spans for Inline Elements
 - [ ] Create a Custom Heading
 - [ ] Add Font Awesome Icons to our Buttons
