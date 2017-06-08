@@ -74,7 +74,7 @@ Front End Development challenges.
 - [x] Create a Bootstrap Button
 - [x] Create a Block Element Bootstrap Button
 - [x] Taste the Bootstrap Button Color Rainbow
-- [ ] Call out Optional Actions with Button Info
+- [x] Call out Optional Actions with Button Info
 - [ ] Warn your Users of a Dangerous Action
 - [ ] Use the Bootstrap Grid to Put Elements Side By Side
 - [ ] Ditch Custom CSS for Bootstrap
