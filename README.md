@@ -84,7 +84,7 @@ Front End Development challenges.
 - [x] Add Font Awesome Icons to all of our Buttons
 - [x] Responsively Style Radio Buttons
 - [x] Responsively Style Checkboxes
-- [ ] Style Text Inputs as Form Controls
+- [x] Style Text Inputs as Form Controls
 - [ ] Line up Form Elements Responsively with Bootstrap
 - [ ] Create a Bootstrap Headline
 - [ ] House our page within a Bootstrap Container Fluid Div
