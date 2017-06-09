@@ -89,7 +89,7 @@ Front End Development challenges.
 - [x] Create a Bootstrap Headline
 - [x] House our page within a Bootstrap Container Fluid Div
 - [x] Create a Bootstrap Row
-- [ ] Split your Bootstrap Row
+- [x] Split your Bootstrap Row
 - [ ] Create Bootstrap Wells
 - [ ] Add Elements within your Bootstrap Wells
 - [ ] Apply the Default Bootstrap Button Style
