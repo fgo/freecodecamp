@@ -85,7 +85,7 @@ Front End Development challenges.
 - [x] Responsively Style Radio Buttons
 - [x] Responsively Style Checkboxes
 - [x] Style Text Inputs as Form Controls
-- [ ] Line up Form Elements Responsively with Bootstrap
+- [x] Line up Form Elements Responsively with Bootstrap
 - [ ] Create a Bootstrap Headline
 - [ ] House our page within a Bootstrap Container Fluid Div
 - [ ] Create a Bootstrap Row
