@@ -112,7 +112,7 @@ Front End Development challenges.
 - [x] Learn how Script Tags and Document Ready Work
 - [x] Target HTML Elements with Selectors Using jQuery
 - [x] Target Elements by Class Using jQuery
-- [ ] Target Elements by ID Using jQuery
+- [x] Target Elements by ID Using jQuery
 - [ ] Delete your jQuery Functions
 - [ ] Target the same element with multiple jQuery Selectors
 - [ ] Remove Classes from an element with jQuery
