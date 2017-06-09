@@ -115,7 +115,7 @@ Front End Development challenges.
 - [x] Target Elements by ID Using jQuery
 - [x] Delete your jQuery Functions
 - [x] Target the same element with multiple jQuery Selectors
-- [ ] Remove Classes from an element with jQuery
+- [x] Remove Classes from an element with jQuery
 - [ ] Change the CSS of an Element Using jQuery
 - [ ] Disable an Element Using jQuery
 - [ ] Change Text Inside an Element Using jQuery
