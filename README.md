@@ -91,7 +91,7 @@ Front End Development challenges.
 - [x] Create a Bootstrap Row
 - [x] Split your Bootstrap Row
 - [x] Create Bootstrap Wells
-- [ ] Add Elements within your Bootstrap Wells
+- [x] Add Elements within your Bootstrap Wells
 - [ ] Apply the Default Bootstrap Button Style
 - [ ] Create a Class to Target with jQuery Selectors
 - [ ] Add ID Attributes to Bootstrap Elements
