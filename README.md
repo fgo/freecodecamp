@@ -119,7 +119,7 @@ Front End Development challenges.
 - [x] Change the CSS of an Element Using jQuery
 - [x] Disable an Element Using jQuery
 - [x] Change Text Inside an Element Using jQuery
-- [ ] Remove an Element Using jQuery
+- [x] Remove an Element Using jQuery
 - [ ] Use appendTo to Move Elements with jQuery
 - [ ] Clone an Element Using jQuery
 - [ ] Target the Parent of an Element Using jQuery
