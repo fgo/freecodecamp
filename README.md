@@ -86,7 +86,7 @@ Front End Development challenges.
 - [x] Responsively Style Checkboxes
 - [x] Style Text Inputs as Form Controls
 - [x] Line up Form Elements Responsively with Bootstrap
-- [ ] Create a Bootstrap Headline
+- [x] Create a Bootstrap Headline
 - [ ] House our page within a Bootstrap Container Fluid Div
 - [ ] Create a Bootstrap Row
 - [ ] Split your Bootstrap Row
