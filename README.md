@@ -125,7 +125,7 @@ Front End Development challenges.
 - [x] Target the Parent of an Element Using jQuery
 - [x] Target the Children of an Element Using jQuery
 - [x] Target a Specific Child of an Element Using jQuery
-- [ ] Target Even Numbered Elements Using jQuery
+- [x] Target Even Numbered Elements Using jQuery
 - [ ] Use jQuery to Modify the Entire Page
 
 ### Basic Front End Development Projects
