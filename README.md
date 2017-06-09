@@ -117,7 +117,7 @@ Front End Development challenges.
 - [x] Target the same element with multiple jQuery Selectors
 - [x] Remove Classes from an element with jQuery
 - [x] Change the CSS of an Element Using jQuery
-- [ ] Disable an Element Using jQuery
+- [x] Disable an Element Using jQuery
 - [ ] Change Text Inside an Element Using jQuery
 - [ ] Remove an Element Using jQuery
 - [ ] Use appendTo to Move Elements with jQuery
