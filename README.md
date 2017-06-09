@@ -95,7 +95,7 @@ Front End Development challenges.
 - [x] Apply the Default Bootstrap Button Style
 - [x] Create a Class to Target with jQuery Selectors
 - [x] Add ID Attributes to Bootstrap Elements
-- [ ] Label Bootstrap Wells
+- [x] Label Bootstrap Wells
 - [ ] Give Each Element a Unique ID
 - [ ] Label Bootstrap Buttons
 - [ ] Use Comments to Clarify Code
