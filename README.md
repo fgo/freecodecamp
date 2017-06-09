@@ -110,7 +110,7 @@ Front End Development challenges.
 ### jQuery
 
 - [x] Learn how Script Tags and Document Ready Work
-- [ ] Target HTML Elements with Selectors Using jQuery
+- [x] Target HTML Elements with Selectors Using jQuery
 - [ ] Target Elements by Class Using jQuery
 - [ ] Target Elements by ID Using jQuery
 - [ ] Delete your jQuery Functions
