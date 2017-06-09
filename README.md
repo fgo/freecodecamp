@@ -88,7 +88,7 @@ Front End Development challenges.
 - [x] Line up Form Elements Responsively with Bootstrap
 - [x] Create a Bootstrap Headline
 - [x] House our page within a Bootstrap Container Fluid Div
-- [ ] Create a Bootstrap Row
+- [x] Create a Bootstrap Row
 - [ ] Split your Bootstrap Row
 - [ ] Create Bootstrap Wells
 - [ ] Add Elements within your Bootstrap Wells
