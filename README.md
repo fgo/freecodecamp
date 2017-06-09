@@ -97,7 +97,7 @@ Front End Development challenges.
 - [x] Add ID Attributes to Bootstrap Elements
 - [x] Label Bootstrap Wells
 - [x] Give Each Element a Unique ID
-- [ ] Label Bootstrap Buttons
+- [x] Label Bootstrap Buttons
 - [ ] Use Comments to Clarify Code
 
 ### Gear up for Success
