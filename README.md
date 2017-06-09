@@ -123,7 +123,7 @@ Front End Development challenges.
 - [x] Use appendTo to Move Elements with jQuery
 - [x] Clone an Element Using jQuery
 - [x] Target the Parent of an Element Using jQuery
-- [ ] Target the Children of an Element Using jQuery
+- [x] Target the Children of an Element Using jQuery
 - [ ] Target a Specific Child of an Element Using jQuery
 - [ ] Target Even Numbered Elements Using jQuery
 - [ ] Use jQuery to Modify the Entire Page
