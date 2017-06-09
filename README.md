@@ -98,7 +98,7 @@ Front End Development challenges.
 - [x] Label Bootstrap Wells
 - [x] Give Each Element a Unique ID
 - [x] Label Bootstrap Buttons
-- [ ] Use Comments to Clarify Code
+- [x] Use Comments to Clarify Code
 
 ### Gear up for Success
 
