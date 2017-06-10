@@ -130,9 +130,9 @@ Front End Development challenges.
 
 ### Basic Front End Development Projects
 
-- [ ] Get Set for our Front End Development Projects
-- [ ] Build a Tribute Page   *
-- [ ] Build a Personal Portfolio Webpage   *
+- [x] Get Set for our Front End Development Projects
+- [x] Build a Tribute Page *
+- [ ] Build a Personal Portfolio Webpage *
 
 ### Basic Javascript
 
