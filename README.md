@@ -154,7 +154,7 @@ Front End Development challenges.
 - [x] Finding a Remainder in JavaScript
 - [x] Compound Assignment With Augmented Addition
 - [x] Compound Assignment With Augmented Subtraction
-- [ ] Compound Assignment With Augmented Multiplication
+- [x] Compound Assignment With Augmented Multiplication
 - [ ] Compound Assignment With Augmented Division
 - [ ] Convert Celsius to Fahrenheit
 - [ ] Declare String Variables
