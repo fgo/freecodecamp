@@ -137,7 +137,7 @@ Front End Development challenges.
 ### Basic Javascript
 
 - [x] Comment your JavaScript Code
-- [ ] Declare JavaScript Variables
+- [x] Declare JavaScript Variables
 - [ ] Storing Values with the Assignment Operator
 - [ ] Initializing Variables with the Assignment Operator
 - [ ] Understanding Uninitialized Variables
