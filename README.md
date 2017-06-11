@@ -150,7 +150,7 @@ Front End Development challenges.
 - [x] Decrement a Number with JavaScript
 - [x] Create Decimal Numbers with JavaScript
 - [x] Multiply Two Decimals with JavaScript
-- [ ] Divide one Decimal by Another with JavaScript
+- [x] Divide one Decimal by Another with JavaScript
 - [ ] Finding a Remainder in JavaScript
 - [ ] Compound Assignment With Augmented Addition
 - [ ] Compound Assignment With Augmented Subtraction
