@@ -141,7 +141,7 @@ Front End Development challenges.
 - [x] Storing Values with the Assignment Operator
 - [x] Initializing Variables with the Assignment Operator
 - [x] Understanding Uninitialized Variables
-- [ ] Understanding Case Sensitivity in Variables
+- [x] Understanding Case Sensitivity in Variables
 - [ ] Add Two Numbers with JavaScript
 - [ ] Subtract One Number from Another with JavaScript
 - [ ] Multiply Two Numbers with JavaScript
