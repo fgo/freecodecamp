@@ -160,7 +160,7 @@ Front End Development challenges.
 - [x] Declare String Variables
 - [x] Escaping Literal Quotes in Strings
 - [x] Quoting Strings with Single Quotes
-- [ ] Escape Sequences in Strings
+- [x] Escape Sequences in Strings
 - [ ] Concatenating Strings with Plus Operator
 - [ ] Concatenating Strings with the Plus Equals Operator
 - [ ] Constructing Strings with Variables
