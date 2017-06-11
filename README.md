@@ -162,7 +162,7 @@ Front End Development challenges.
 - [x] Quoting Strings with Single Quotes
 - [x] Escape Sequences in Strings
 - [x] Concatenating Strings with Plus Operator
-- [ ] Concatenating Strings with the Plus Equals Operator
+- [x] Concatenating Strings with the Plus Equals Operator
 - [ ] Constructing Strings with Variables
 - [ ] Appending Variables to Strings
 - [ ] Find the Length of a String
