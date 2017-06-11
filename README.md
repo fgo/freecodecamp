@@ -155,7 +155,7 @@ Front End Development challenges.
 - [x] Compound Assignment With Augmented Addition
 - [x] Compound Assignment With Augmented Subtraction
 - [x] Compound Assignment With Augmented Multiplication
-- [ ] Compound Assignment With Augmented Division
+- [x] Compound Assignment With Augmented Division
 - [ ] Convert Celsius to Fahrenheit
 - [ ] Declare String Variables
 - [ ] Escaping Literal Quotes in Strings
