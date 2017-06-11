@@ -166,7 +166,7 @@ Front End Development challenges.
 - [x] Constructing Strings with Variables
 - [x] Appending Variables to Strings
 - [x] Find the Length of a String
-- [ ] Use Bracket Notation to Find the First Character in a String
+- [x] Use Bracket Notation to Find the First Character in a String
 - [ ] Understand String Immutability
 - [ ] Use Bracket Notation to Find the Nth Character in a String
 - [ ] Use Bracket Notation to Find the Last Character in a String
