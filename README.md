@@ -152,7 +152,7 @@ Front End Development challenges.
 - [x] Multiply Two Decimals with JavaScript
 - [x] Divide one Decimal by Another with JavaScript
 - [x] Finding a Remainder in JavaScript
-- [ ] Compound Assignment With Augmented Addition
+- [x] Compound Assignment With Augmented Addition
 - [ ] Compound Assignment With Augmented Subtraction
 - [ ] Compound Assignment With Augmented Multiplication
 - [ ] Compound Assignment With Augmented Division
