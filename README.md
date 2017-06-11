@@ -159,7 +159,7 @@ Front End Development challenges.
 - [x] Convert Celsius to Fahrenheit
 - [x] Declare String Variables
 - [x] Escaping Literal Quotes in Strings
-- [ ] Quoting Strings with Single Quotes
+- [x] Quoting Strings with Single Quotes
 - [ ] Escape Sequences in Strings
 - [ ] Concatenating Strings with Plus Operator
 - [ ] Concatenating Strings with the Plus Equals Operator
