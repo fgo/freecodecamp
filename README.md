@@ -148,7 +148,7 @@ Front End Development challenges.
 - [x] Divide One Number by Another with JavaScript
 - [x] Increment a Number with JavaScript
 - [x] Decrement a Number with JavaScript
-- [ ] Create Decimal Numbers with JavaScript
+- [x] Create Decimal Numbers with JavaScript
 - [ ] Multiply Two Decimals with JavaScript
 - [ ] Divide one Decimal by Another with JavaScript
 - [ ] Finding a Remainder in JavaScript
