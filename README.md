@@ -163,7 +163,7 @@ Front End Development challenges.
 - [x] Escape Sequences in Strings
 - [x] Concatenating Strings with Plus Operator
 - [x] Concatenating Strings with the Plus Equals Operator
-- [ ] Constructing Strings with Variables
+- [x] Constructing Strings with Variables
 - [ ] Appending Variables to Strings
 - [ ] Find the Length of a String
 - [ ] Use Bracket Notation to Find the First Character in a String
