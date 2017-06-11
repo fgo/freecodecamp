@@ -138,7 +138,7 @@ Front End Development challenges.
 
 - [x] Comment your JavaScript Code
 - [x] Declare JavaScript Variables
-- [ ] Storing Values with the Assignment Operator
+- [x] Storing Values with the Assignment Operator
 - [ ] Initializing Variables with the Assignment Operator
 - [ ] Understanding Uninitialized Variables
 - [ ] Understanding Case Sensitivity in Variables
