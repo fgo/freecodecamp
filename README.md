@@ -165,7 +165,7 @@ Front End Development challenges.
 - [x] Concatenating Strings with the Plus Equals Operator
 - [x] Constructing Strings with Variables
 - [x] Appending Variables to Strings
-- [ ] Find the Length of a String
+- [x] Find the Length of a String
 - [ ] Use Bracket Notation to Find the First Character in a String
 - [ ] Understand String Immutability
 - [ ] Use Bracket Notation to Find the Nth Character in a String
