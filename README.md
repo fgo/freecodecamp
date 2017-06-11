@@ -146,7 +146,7 @@ Front End Development challenges.
 - [x] Subtract One Number from Another with JavaScript
 - [x] Multiply Two Numbers with JavaScript
 - [x] Divide One Number by Another with JavaScript
-- [ ] Increment a Number with JavaScript
+- [x] Increment a Number with JavaScript
 - [ ] Decrement a Number with JavaScript
 - [ ] Create Decimal Numbers with JavaScript
 - [ ] Multiply Two Decimals with JavaScript
