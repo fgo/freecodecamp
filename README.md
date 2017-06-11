@@ -143,7 +143,7 @@ Front End Development challenges.
 - [x] Understanding Uninitialized Variables
 - [x] Understanding Case Sensitivity in Variables
 - [x] Add Two Numbers with JavaScript
-- [ ] Subtract One Number from Another with JavaScript
+- [x] Subtract One Number from Another with JavaScript
 - [ ] Multiply Two Numbers with JavaScript
 - [ ] Divide One Number by Another with JavaScript
 - [ ] Increment a Number with JavaScript
