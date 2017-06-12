@@ -176,7 +176,7 @@ Front End Development challenges.
 - [x] Nest one Array within Another Array
 - [x] Access Array Data with Indexes
 - [x] Modify Array Data With Indexes
-- [ ] Access Multi-Dimensional Arrays With Indexes
+- [x] Access Multi-Dimensional Arrays With Indexes
 - [ ] Manipulate Arrays With push()
 - [ ] Manipulate Arrays With pop()
 - [ ] Manipulate Arrays With shift()
