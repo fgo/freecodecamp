@@ -182,7 +182,7 @@ Front End Development challenges.
 - [x] Manipulate Arrays With shift()
 - [x] Manipulate Arrays With unshift()
 - [x] Shopping List
-- [ ] Write Reusable JavaScript with Functions
+- [x] Write Reusable JavaScript with Functions
 - [ ] Passing Values to Functions with Arguments
 - [ ] Global Scope and Functions
 - [ ] Local Scope and Functions
