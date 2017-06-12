@@ -179,7 +179,7 @@ Front End Development challenges.
 - [x] Access Multi-Dimensional Arrays With Indexes
 - [x] Manipulate Arrays With push()
 - [x] Manipulate Arrays With pop()
-- [ ] Manipulate Arrays With shift()
+- [x] Manipulate Arrays With shift()
 - [ ] Manipulate Arrays With unshift()
 - [ ] Shopping List
 - [ ] Write Reusable JavaScript with Functions
