@@ -184,7 +184,7 @@ Front End Development challenges.
 - [x] Shopping List
 - [x] Write Reusable JavaScript with Functions
 - [x] Passing Values to Functions with Arguments
-- [ ] Global Scope and Functions
+- [x] Global Scope and Functions
 - [ ] Local Scope and Functions
 - [ ] Global vs. Local Scope in Functions
 - [ ] Return a Value from a Function with Return
