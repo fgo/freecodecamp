@@ -178,7 +178,7 @@ Front End Development challenges.
 - [x] Modify Array Data With Indexes
 - [x] Access Multi-Dimensional Arrays With Indexes
 - [x] Manipulate Arrays With push()
-- [ ] Manipulate Arrays With pop()
+- [x] Manipulate Arrays With pop()
 - [ ] Manipulate Arrays With shift()
 - [ ] Manipulate Arrays With unshift()
 - [ ] Shopping List
