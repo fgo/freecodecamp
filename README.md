@@ -171,7 +171,7 @@ Front End Development challenges.
 - [x] Use Bracket Notation to Find the Nth Character in a String
 - [x] Use Bracket Notation to Find the Last Character in a String
 - [x] Use Bracket Notation to Find the Nth-to-Last Character in a String
-- [ ] Word Blanks
+- [x] Word Blanks
 - [ ] Store Multiple Values in one Variable using JavaScript Arrays
 - [ ] Nest one Array within Another Array
 - [ ] Access Array Data with Indexes
