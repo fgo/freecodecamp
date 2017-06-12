@@ -175,7 +175,7 @@ Front End Development challenges.
 - [x] Store Multiple Values in one Variable using JavaScript Arrays
 - [x] Nest one Array within Another Array
 - [x] Access Array Data with Indexes
-- [ ] Modify Array Data With Indexes
+- [x] Modify Array Data With Indexes
 - [ ] Access Multi-Dimensional Arrays With Indexes
 - [ ] Manipulate Arrays With push()
 - [ ] Manipulate Arrays With pop()
