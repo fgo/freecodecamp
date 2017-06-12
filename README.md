@@ -180,7 +180,7 @@ Front End Development challenges.
 - [x] Manipulate Arrays With push()
 - [x] Manipulate Arrays With pop()
 - [x] Manipulate Arrays With shift()
-- [ ] Manipulate Arrays With unshift()
+- [x] Manipulate Arrays With unshift()
 - [ ] Shopping List
 - [ ] Write Reusable JavaScript with Functions
 - [ ] Passing Values to Functions with Arguments
