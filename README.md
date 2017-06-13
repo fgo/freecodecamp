@@ -189,7 +189,7 @@ Front End Development challenges.
 - [x] Global vs. Local Scope in Functions
 - [x] Return a Value from a Function with Return
 - [x] Assignment with a Returned Value
-- [ ] Stand in Line
+- [x] Stand in Line
 - [ ] Understanding Boolean Values
 - [ ] Use Conditional Logic with If Statements
 - [ ] Comparison with the Equality Operator
