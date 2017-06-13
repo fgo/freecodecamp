@@ -193,7 +193,7 @@ Front End Development challenges.
 - [x] Understanding Boolean Values
 - [x] Use Conditional Logic with If Statements
 - [x] Comparison with the Equality Operator
-- [ ] Comparison with the Strict Equality Operator
+- [x] Comparison with the Strict Equality Operator
 - [ ] Comparison with the Inequality Operator
 - [ ] Comparison with the Strict Inequality Operator
 - [ ] Comparison with the Greater Than Operator
