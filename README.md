@@ -187,7 +187,7 @@ Front End Development challenges.
 - [x] Global Scope and Functions
 - [x] Local Scope and Functions
 - [x] Global vs. Local Scope in Functions
-- [ ] Return a Value from a Function with Return
+- [x] Return a Value from a Function with Return
 - [ ] Assignment with a Returned Value
 - [ ] Stand in Line
 - [ ] Understanding Boolean Values
