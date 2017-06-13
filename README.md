@@ -190,7 +190,7 @@ Front End Development challenges.
 - [x] Return a Value from a Function with Return
 - [x] Assignment with a Returned Value
 - [x] Stand in Line
-- [ ] Understanding Boolean Values
+- [x] Understanding Boolean Values
 - [ ] Use Conditional Logic with If Statements
 - [ ] Comparison with the Equality Operator
 - [ ] Comparison with the Strict Equality Operator
