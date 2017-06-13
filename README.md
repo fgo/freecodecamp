@@ -185,7 +185,7 @@ Front End Development challenges.
 - [x] Write Reusable JavaScript with Functions
 - [x] Passing Values to Functions with Arguments
 - [x] Global Scope and Functions
-- [ ] Local Scope and Functions
+- [x] Local Scope and Functions
 - [ ] Global vs. Local Scope in Functions
 - [ ] Return a Value from a Function with Return
 - [ ] Assignment with a Returned Value
