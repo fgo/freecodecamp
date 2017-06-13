@@ -186,7 +186,7 @@ Front End Development challenges.
 - [x] Passing Values to Functions with Arguments
 - [x] Global Scope and Functions
 - [x] Local Scope and Functions
-- [ ] Global vs. Local Scope in Functions
+- [x] Global vs. Local Scope in Functions
 - [ ] Return a Value from a Function with Return
 - [ ] Assignment with a Returned Value
 - [ ] Stand in Line
