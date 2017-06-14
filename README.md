@@ -202,7 +202,7 @@ Front End Development challenges.
 - [x] Comparison with the Less Than Or Equal To Operator
 - [x] Comparisons with the Logical And Operator
 - [x] Comparisons with the Logical Or Operator
-- [ ] Introducing Else Statements
+- [x] Introducing Else Statements
 - [ ] Introducing Else If Statements
 - [ ] Logical Order in If Else Statements
 - [ ] Chaining If Else Statements
