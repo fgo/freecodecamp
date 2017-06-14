@@ -213,7 +213,7 @@ Front End Development challenges.
 - [x] Replacing If Else Chains with Switch
 - [x] Returning Boolean Values from Functions
 - [x] Return Early Pattern for Functions
-- [ ] Counting Cards
+- [x] Counting Cards
 - [ ] Build JavaScript Objects
 - [ ] Accessing Objects Properties with the Dot Operator
 - [ ] Accessing Objects Properties with Bracket Notation
