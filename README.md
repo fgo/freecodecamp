@@ -210,7 +210,7 @@ Front End Development challenges.
 - [x] Selecting from many options with Switch Statements
 - [x] Adding a default option in Switch statements
 - [x] Multiple Identical Options in Switch Statements
-- [ ] Replacing If Else Chains with Switch
+- [x] Replacing If Else Chains with Switch
 - [ ] Returning Boolean Values from Functions
 - [ ] Return Early Pattern for Functions
 - [ ] Counting Cards
