@@ -204,7 +204,7 @@ Front End Development challenges.
 - [x] Comparisons with the Logical Or Operator
 - [x] Introducing Else Statements
 - [x] Introducing Else If Statements
-- [ ] Logical Order in If Else Statements
+- [x] Logical Order in If Else Statements
 - [ ] Chaining If Else Statements
 - [ ] Golf Code
 - [ ] Selecting from many options with Switch Statements
