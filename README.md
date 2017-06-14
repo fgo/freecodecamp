@@ -207,7 +207,7 @@ Front End Development challenges.
 - [x] Logical Order in If Else Statements
 - [x] Chaining If Else Statements
 - [x] Golf Code
-- [ ] Selecting from many options with Switch Statements
+- [x] Selecting from many options with Switch Statements
 - [ ] Adding a default option in Switch statements
 - [ ] Multiple Identical Options in Switch Statements
 - [ ] Replacing If Else Chains with Switch
