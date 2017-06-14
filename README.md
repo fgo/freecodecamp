@@ -211,7 +211,7 @@ Front End Development challenges.
 - [x] Adding a default option in Switch statements
 - [x] Multiple Identical Options in Switch Statements
 - [x] Replacing If Else Chains with Switch
-- [ ] Returning Boolean Values from Functions
+- [x] Returning Boolean Values from Functions
 - [ ] Return Early Pattern for Functions
 - [ ] Counting Cards
 - [ ] Build JavaScript Objects
