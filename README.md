@@ -209,7 +209,7 @@ Front End Development challenges.
 - [x] Golf Code
 - [x] Selecting from many options with Switch Statements
 - [x] Adding a default option in Switch statements
-- [ ] Multiple Identical Options in Switch Statements
+- [x] Multiple Identical Options in Switch Statements
 - [ ] Replacing If Else Chains with Switch
 - [ ] Returning Boolean Values from Functions
 - [ ] Return Early Pattern for Functions
