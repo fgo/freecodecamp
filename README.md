@@ -200,7 +200,7 @@ Front End Development challenges.
 - [x] Comparison with the Greater Than Or Equal To Operator
 - [x] Comparison with the Less Than Operator
 - [x] Comparison with the Less Than Or Equal To Operator
-- [ ] Comparisons with the Logical And Operator
+- [x] Comparisons with the Logical And Operator
 - [ ] Comparisons with the Logical Or Operator
 - [ ] Introducing Else Statements
 - [ ] Introducing Else If Statements
