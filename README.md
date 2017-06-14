@@ -195,7 +195,7 @@ Front End Development challenges.
 - [x] Comparison with the Equality Operator
 - [x] Comparison with the Strict Equality Operator
 - [x] Comparison with the Inequality Operator
-- [ ] Comparison with the Strict Inequality Operator
+- [x] Comparison with the Strict Inequality Operator
 - [ ] Comparison with the Greater Than Operator
 - [ ] Comparison with the Greater Than Or Equal To Operator
 - [ ] Comparison with the Less Than Operator
