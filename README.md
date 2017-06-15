@@ -215,7 +215,7 @@ Front End Development challenges.
 - [x] Return Early Pattern for Functions
 - [x] Counting Cards
 - [x] Build JavaScript Objects
-- [ ] Accessing Objects Properties with the Dot Operator
+- [x] Accessing Objects Properties with the Dot Operator
 - [ ] Accessing Objects Properties with Bracket Notation
 - [ ] Accessing Objects Properties with Variables
 - [ ] Updating Object Properties
