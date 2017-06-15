@@ -221,7 +221,7 @@ Front End Development challenges.
 - [x] Updating Object Properties
 - [x] Add New Properties to a JavaScript Object
 - [x] Delete Properties from a JavaScript Object
-- [ ] Using Objects for Lookups
+- [x] Using Objects for Lookups
 - [ ] Testing Objects for Properties
 - [ ] Manipulating Complex Objects
 - [ ] Accessing Nested Objects
