@@ -217,7 +217,7 @@ Front End Development challenges.
 - [x] Build JavaScript Objects
 - [x] Accessing Objects Properties with the Dot Operator
 - [x] Accessing Objects Properties with Bracket Notation
-- [ ] Accessing Objects Properties with Variables
+- [x] Accessing Objects Properties with Variables
 - [ ] Updating Object Properties
 - [ ] Add New Properties to a JavaScript Object
 - [ ] Delete Properties from a JavaScript Object
