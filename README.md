@@ -216,7 +216,7 @@ Front End Development challenges.
 - [x] Counting Cards
 - [x] Build JavaScript Objects
 - [x] Accessing Objects Properties with the Dot Operator
-- [ ] Accessing Objects Properties with Bracket Notation
+- [x] Accessing Objects Properties with Bracket Notation
 - [ ] Accessing Objects Properties with Variables
 - [ ] Updating Object Properties
 - [ ] Add New Properties to a JavaScript Object
