@@ -224,7 +224,7 @@ Front End Development challenges.
 - [x] Using Objects for Lookups
 - [x] Testing Objects for Properties
 - [x] Manipulating Complex Objects
-- [ ] Accessing Nested Objects
+- [x] Accessing Nested Objects
 - [ ] Accessing Nested Arrays
 - [ ] Iterate with JavaScript For Loops
 - [ ] Iterate Odd Numbers With a For Loop
