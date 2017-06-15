@@ -225,7 +225,7 @@ Front End Development challenges.
 - [x] Testing Objects for Properties
 - [x] Manipulating Complex Objects
 - [x] Accessing Nested Objects
-- [ ] Accessing Nested Arrays
+- [x] Accessing Nested Arrays
 - [ ] Iterate with JavaScript For Loops
 - [ ] Iterate Odd Numbers With a For Loop
 - [ ] Count Backwards With a For Loop
