@@ -219,7 +219,7 @@ Front End Development challenges.
 - [x] Accessing Objects Properties with Bracket Notation
 - [x] Accessing Objects Properties with Variables
 - [x] Updating Object Properties
-- [ ] Add New Properties to a JavaScript Object
+- [x] Add New Properties to a JavaScript Object
 - [ ] Delete Properties from a JavaScript Object
 - [ ] Using Objects for Lookups
 - [ ] Testing Objects for Properties
