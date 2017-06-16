@@ -233,7 +233,7 @@ Front End Development challenges.
 - [x] Nesting For Loops
 - [x] Iterate with JavaScript While Loops
 - [x] Profile Lookup
-- [ ] Generate Random Fractions with JavaScript
+- [x] Generate Random Fractions with JavaScript
 - [ ] Generate Random Whole Numbers with JavaScript
 - [ ] Generate Random Whole Numbers within a Range
 - [ ] Sift through Text with Regular Expressions
