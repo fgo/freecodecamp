@@ -227,7 +227,7 @@ Front End Development challenges.
 - [x] Accessing Nested Objects
 - [x] Accessing Nested Arrays
 - [x] Iterate with JavaScript For Loops
-- [ ] Iterate Odd Numbers With a For Loop
+- [x] Iterate Odd Numbers With a For Loop
 - [ ] Count Backwards With a For Loop
 - [ ] Iterate Through an Array with a For Loop
 - [ ] Nesting For Loops
