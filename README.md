@@ -234,7 +234,7 @@ Front End Development challenges.
 - [x] Iterate with JavaScript While Loops
 - [x] Profile Lookup
 - [x] Generate Random Fractions with JavaScript
-- [ ] Generate Random Whole Numbers with JavaScript
+- [x] Generate Random Whole Numbers with JavaScript
 - [ ] Generate Random Whole Numbers within a Range
 - [ ] Sift through Text with Regular Expressions
 - [ ] Find Numbers with Regular Expressions
