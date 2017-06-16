@@ -231,7 +231,7 @@ Front End Development challenges.
 - [x] Count Backwards With a For Loop
 - [x] Iterate Through an Array with a For Loop
 - [x] Nesting For Loops
-- [ ] Iterate with JavaScript While Loops
+- [x] Iterate with JavaScript While Loops
 - [ ] Profile Lookup
 - [ ] Generate Random Fractions with JavaScript
 - [ ] Generate Random Whole Numbers with JavaScript
