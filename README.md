@@ -232,7 +232,7 @@ Front End Development challenges.
 - [x] Iterate Through an Array with a For Loop
 - [x] Nesting For Loops
 - [x] Iterate with JavaScript While Loops
-- [ ] Profile Lookup
+- [x] Profile Lookup
 - [ ] Generate Random Fractions with JavaScript
 - [ ] Generate Random Whole Numbers with JavaScript
 - [ ] Generate Random Whole Numbers within a Range
