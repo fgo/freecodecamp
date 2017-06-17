@@ -247,7 +247,7 @@ Front End Development challenges.
 - [x] Construct JavaScript Objects with Functions
 - [x] Make Instances of Objects with a Constructor Function
 - [x] Make Unique Objects by Passing Parameters to our Constructor
-- [ ] Make Object Properties Private
+- [x] Make Object Properties Private
 - [ ] Iterate over Arrays with .map
 - [ ] Condense arrays with .reduce
 - [ ] Filter Arrays with .filter
