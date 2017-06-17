@@ -1,5 +1,5 @@
 /*!
- * Construct JavaScript Objects with Functions Incomplete - Front End Development Certification
+ * Construct JavaScript Objects with Functions - Front End Development Certification
  *
  * Authored by Francis Go
  * https://github.com/fgo/freecodecamp

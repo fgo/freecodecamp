@@ -1,5 +1,5 @@
 /*!
- * Declare JavaScript Objects as Variables Incomplete - Front End Development Certification
+ * Declare JavaScript Objects as Variables - Front End Development Certification
  *
  * Authored by Francis Go
  * https://github.com/fgo/freecodecamp

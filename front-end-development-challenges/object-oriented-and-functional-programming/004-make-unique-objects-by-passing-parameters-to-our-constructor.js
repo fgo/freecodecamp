@@ -1,5 +1,5 @@
 /*!
- * Make Unique Objects by Passing Parameters to our Constructor Incomplete - Front End Development Certification
+ * Make Unique Objects by Passing Parameters to our Constructor - Front End Development Certification
  *
  * Authored by Francis Go
  * https://github.com/fgo/freecodecamp

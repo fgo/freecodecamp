@@ -1,5 +1,5 @@
 /*!
- * Make Instances of Objects with a Constructor Function Incomplete - Front End Development Certification
+ * Make Instances of Objects with a Constructor Function - Front End Development Certification
  *
  * Authored by Francis Go
  * https://github.com/fgo/freecodecamp
