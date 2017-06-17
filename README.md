@@ -248,7 +248,7 @@ Front End Development challenges.
 - [x] Make Instances of Objects with a Constructor Function
 - [x] Make Unique Objects by Passing Parameters to our Constructor
 - [x] Make Object Properties Private
-- [ ] Iterate over Arrays with .map
+- [x] Iterate over Arrays with .map
 - [ ] Condense arrays with .reduce
 - [ ] Filter Arrays with .filter
 - [ ] Sort Arrays with .sort
