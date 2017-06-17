@@ -236,7 +236,7 @@ Front End Development challenges.
 - [x] Generate Random Fractions with JavaScript
 - [x] Generate Random Whole Numbers with JavaScript
 - [x] Generate Random Whole Numbers within a Range
-- [ ] Sift through Text with Regular Expressions
+- [x] Sift through Text with Regular Expressions
 - [ ] Find Numbers with Regular Expressions
 - [ ] Find Whitespace with Regular Expressions
 - [ ] Invert Regular Expression Matches with JavaScript
