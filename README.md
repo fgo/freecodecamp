@@ -261,7 +261,7 @@ Front End Development challenges.
 
 - [x] Get Set for our Algorithm Challenges
 - [x] Reverse a String *
-- [ ] Factorialize a Number *
+- [x] Factorialize a Number *
 - [ ] Check for Palindromes *
 - [ ] Find the Longest Word in a String *
 - [ ] Title Case a Sentence *
