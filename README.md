@@ -249,7 +249,7 @@ Front End Development challenges.
 - [x] Make Unique Objects by Passing Parameters to our Constructor
 - [x] Make Object Properties Private
 - [x] Iterate over Arrays with .map
-- [ ] Condense arrays with .reduce
+- [x] Condense arrays with .reduce
 - [ ] Filter Arrays with .filter
 - [ ] Sort Arrays with .sort
 - [ ] Reverse Arrays with .reverse
