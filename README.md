@@ -245,7 +245,7 @@ Front End Development challenges.
 
 - [x] Declare JavaScript Objects as Variables
 - [x] Construct JavaScript Objects with Functions
-- [ ] Make Instances of Objects with a Constructor Function
+- [x] Make Instances of Objects with a Constructor Function
 - [ ] Make Unique Objects by Passing Parameters to our Constructor
 - [ ] Make Object Properties Private
 - [ ] Iterate over Arrays with .map
