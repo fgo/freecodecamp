@@ -238,7 +238,7 @@ Front End Development challenges.
 - [x] Generate Random Whole Numbers within a Range
 - [x] Sift through Text with Regular Expressions
 - [x] Find Numbers with Regular Expressions
-- [ ] Find Whitespace with Regular Expressions
+- [x] Find Whitespace with Regular Expressions
 - [ ] Invert Regular Expression Matches with JavaScript
 
 ###  Object Oriented and Functional Programming
