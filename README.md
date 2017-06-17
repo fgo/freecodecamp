@@ -259,23 +259,23 @@ Front End Development challenges.
 
 ### Basic Algorithm Scripting
 
-- [ ] Get Set for our Algorithm Challenges
-- [ ] Reverse a String   *
-- [ ] Factorialize a Number   *
-- [ ] Check for Palindromes   *
-- [ ] Find the Longest Word in a String   *
-- [ ] Title Case a Sentence   *
-- [ ] Return Largest Numbers in Arrays   *
-- [ ] Confirm the Ending   *
-- [ ] Repeat a string repeat a string   *
-- [ ] Truncate a string   *
-- [ ] Chunky Monkey   *
-- [ ] Slasher Flick   *
-- [ ] Mutations   *
-- [ ] Falsy Bouncer   *
-- [ ] Seek and Destroy   *
-- [ ] Where do I belong   *
-- [ ] Caesars Cipher   *
+- [x] Get Set for our Algorithm Challenges
+- [x] Reverse a String *
+- [ ] Factorialize a Number *
+- [ ] Check for Palindromes *
+- [ ] Find the Longest Word in a String *
+- [ ] Title Case a Sentence *
+- [ ] Return Largest Numbers in Arrays *
+- [ ] Confirm the Ending *
+- [ ] Repeat a string repeat a string *
+- [ ] Truncate a string *
+- [ ] Chunky Monkey *
+- [ ] Slasher Flick *
+- [ ] Mutations *
+- [ ] Falsy Bouncer *
+- [ ] Seek and Destroy *
+- [ ] Where do I belong *
+- [ ] Caesars Cipher *
 
 ###  JSON APIs and Ajax
 
@@ -289,34 +289,34 @@ Front End Development challenges.
 
 ### Intermediate Front End Development Projects
 
-- [ ] Build a Random Quote Machine   *
-- [ ] Show the Local Weather   *
-- [ ] Build a Wikipedia Viewer   *
-- [ ] Use the Twitch.tv JSON API   *
+- [ ] Build a Random Quote Machine *
+- [ ] Show the Local Weather *
+- [ ] Build a Wikipedia Viewer *
+- [ ] Use the Twitch.tv JSON API *
 
 ###  Intermediate Algorithm Scripting
 
-- [ ] Sum All Numbers in a Range   *
-- [ ] Diff Two Arrays   *
-- [ ] Roman Numeral Converter   *
-- [ ] Wherefore art thou   *
-- [ ] Search and Replace   *
-- [ ] Pig Latin   *
-- [ ] DNA Pairing   *
-- [ ] Missing letters   *
-- [ ] Boo who   *
-- [ ] Sorted Union   *
-- [ ] Convert HTML Entities   *
-- [ ] Spinal Tap Case   *
-- [ ] Sum All Odd Fibonacci Numbers   *
-- [ ] Sum All Primes   *
-- [ ] Smallest Common Multiple   *
-- [ ] Finders Keepers   *
-- [ ] Drop it   *
-- [ ] Steamroller   *
-- [ ] Binary Agents   *
-- [ ] Everything Be True   *
-- [ ] Arguments Optional   *
+- [ ] Sum All Numbers in a Range *
+- [ ] Diff Two Arrays *
+- [ ] Roman Numeral Converter *
+- [ ] Wherefore art thou *
+- [ ] Search and Replace *
+- [ ] Pig Latin *
+- [ ] DNA Pairing *
+- [ ] Missing letters *
+- [ ] Boo who *
+- [ ] Sorted Union *
+- [ ] Convert HTML Entities *
+- [ ] Spinal Tap Case *
+- [ ] Sum All Odd Fibonacci Numbers *
+- [ ] Sum All Primes *
+- [ ] Smallest Common Multiple *
+- [ ] Finders Keepers *
+- [ ] Drop it *
+- [ ] Steamroller *
+- [ ] Binary Agents *
+- [ ] Everything Be True *
+- [ ] Arguments Optional *
 
 ## Advanced Algorithm Scripting
 
@@ -332,10 +332,10 @@ Front End Development challenges.
 
 # Advanced Front End Development Projects
 
-- [ ] Build a JavaScript Calculator   *
-- [ ] Build a Pomodoro Clock   *
-- [ ] Build a Tic Tac Toe Game   *
-- [ ] Build a Simon Game   *
+- [ ] Build a JavaScript Calculator *
+- [ ] Build a Pomodoro Clock *
+- [ ] Build a Tic Tac Toe Game *
+- [ ] Build a Simon Game *
 
 # Claim Your Front End Development Certificate
 
