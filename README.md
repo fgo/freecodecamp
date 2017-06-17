@@ -243,7 +243,7 @@ Front End Development challenges.
 
 ###  Object Oriented and Functional Programming
 
-- [ ] Declare JavaScript Objects as Variables
+- [x] Declare JavaScript Objects as Variables
 - [ ] Construct JavaScript Objects with Functions
 - [ ] Make Instances of Objects with a Constructor Function
 - [ ] Make Unique Objects by Passing Parameters to our Constructor
