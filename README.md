@@ -252,7 +252,7 @@ Front End Development challenges.
 - [x] Condense arrays with .reduce
 - [x] Filter Arrays with .filter
 - [x] Sort Arrays with .sort
-- [ ] Reverse Arrays with .reverse
+- [x] Reverse Arrays with .reverse
 - [ ] Concatenate Arrays with .concat
 - [ ] Split Strings with .split
 - [ ] Join Strings with .join
