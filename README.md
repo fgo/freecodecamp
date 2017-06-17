@@ -254,7 +254,7 @@ Front End Development challenges.
 - [x] Sort Arrays with .sort
 - [x] Reverse Arrays with .reverse
 - [x] Concatenate Arrays with .concat
-- [ ] Split Strings with .split
+- [x] Split Strings with .split
 - [ ] Join Strings with .join
 
 ### Basic Algorithm Scripting
