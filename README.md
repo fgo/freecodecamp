@@ -251,7 +251,7 @@ Front End Development challenges.
 - [x] Iterate over Arrays with .map
 - [x] Condense arrays with .reduce
 - [x] Filter Arrays with .filter
-- [ ] Sort Arrays with .sort
+- [x] Sort Arrays with .sort
 - [ ] Reverse Arrays with .reverse
 - [ ] Concatenate Arrays with .concat
 - [ ] Split Strings with .split
