@@ -264,7 +264,7 @@ Front End Development challenges.
 - [x] Factorialize a Number *
 - [x] Check for Palindromes *
 - [x] Find the Longest Word in a String *
-- [ ] Title Case a Sentence *
+- [x] Title Case a Sentence *
 - [ ] Return Largest Numbers in Arrays *
 - [ ] Confirm the Ending *
 - [ ] Repeat a string repeat a string *
