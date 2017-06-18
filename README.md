@@ -266,7 +266,7 @@ Front End Development challenges.
 - [x] Find the Longest Word in a String *
 - [x] Title Case a Sentence *
 - [x] Return Largest Numbers in Arrays *
-- [ ] Confirm the Ending *
+- [x] Confirm the Ending *
 - [ ] Repeat a string repeat a string *
 - [ ] Truncate a string *
 - [ ] Chunky Monkey *
