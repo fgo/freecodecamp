@@ -263,7 +263,7 @@ Front End Development challenges.
 - [x] Reverse a String *
 - [x] Factorialize a Number *
 - [x] Check for Palindromes *
-- [ ] Find the Longest Word in a String *
+- [x] Find the Longest Word in a String *
 - [ ] Title Case a Sentence *
 - [ ] Return Largest Numbers in Arrays *
 - [ ] Confirm the Ending *
