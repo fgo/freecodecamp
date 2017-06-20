@@ -268,7 +268,7 @@ Front End Development challenges.
 - [x] Return Largest Numbers in Arrays *
 - [x] Confirm the Ending *
 - [x] Repeat a string repeat a string *
-- [ ] Truncate a string *
+- [x] Truncate a string *
 - [ ] Chunky Monkey *
 - [ ] Slasher Flick *
 - [ ] Mutations *
