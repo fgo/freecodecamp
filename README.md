@@ -270,7 +270,7 @@ Front End Development challenges.
 - [x] Repeat a string repeat a string *
 - [x] Truncate a string *
 - [x] Chunky Monkey *
-- [ ] Slasher Flick *
+- [x] Slasher Flick *
 - [ ] Mutations *
 - [ ] Falsy Bouncer *
 - [ ] Seek and Destroy *
