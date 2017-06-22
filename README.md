@@ -271,7 +271,7 @@ Front End Development challenges.
 - [x] Truncate a string *
 - [x] Chunky Monkey *
 - [x] Slasher Flick *
-- [ ] Mutations *
+- [x] Mutations *
 - [ ] Falsy Bouncer *
 - [ ] Seek and Destroy *
 - [ ] Where do I belong *
