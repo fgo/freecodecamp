@@ -269,7 +269,7 @@ Front End Development challenges.
 - [x] Confirm the Ending *
 - [x] Repeat a string repeat a string *
 - [x] Truncate a string *
-- [ ] Chunky Monkey *
+- [x] Chunky Monkey *
 - [ ] Slasher Flick *
 - [ ] Mutations *
 - [ ] Falsy Bouncer *
