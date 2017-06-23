@@ -272,7 +272,7 @@ Front End Development challenges.
 - [x] Chunky Monkey *
 - [x] Slasher Flick *
 - [x] Mutations *
-- [ ] Falsy Bouncer *
+- [x] Falsy Bouncer *
 - [ ] Seek and Destroy *
 - [ ] Where do I belong *
 - [ ] Caesars Cipher *
