@@ -273,7 +273,7 @@ Front End Development challenges.
 - [x] Slasher Flick *
 - [x] Mutations *
 - [x] Falsy Bouncer *
-- [ ] Seek and Destroy *
+- [x] Seek and Destroy *
 - [ ] Where do I belong *
 - [ ] Caesars Cipher *
 
