@@ -275,7 +275,7 @@ Front End Development challenges.
 - [x] Falsy Bouncer *
 - [x] Seek and Destroy *
 - [x] Where do I belong *
-- [ ] Caesars Cipher *
+- [x] Caesars Cipher *
 
 ###  JSON APIs and Ajax
 
