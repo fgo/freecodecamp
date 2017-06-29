@@ -279,7 +279,7 @@ Front End Development challenges.
 
 ###  JSON APIs and Ajax
 
-- [ ] Trigger Click Events with jQuery
+- [x] Trigger Click Events with jQuery
 - [ ] Change Text with Click Events
 - [ ] Get JSON with the jQuery getJSON Method
 - [ ] Convert JSON Data to HTML
