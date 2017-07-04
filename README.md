@@ -282,7 +282,7 @@ Front End Development challenges.
 - [x] Trigger Click Events with jQuery
 - [x] Change Text with Click Events
 - [x] Get JSON with the jQuery getJSON Method
-- [ ] Convert JSON Data to HTML
+- [x] Convert JSON Data to HTML
 - [ ] Render Images from Data Sources
 - [ ] Prefilter JSON
 - [ ] Get Geo-location Data
