@@ -284,7 +284,7 @@ Front End Development challenges.
 - [x] Get JSON with the jQuery getJSON Method
 - [x] Convert JSON Data to HTML
 - [x] Render Images from Data Sources
-- [ ] Prefilter JSON
+- [x] Prefilter JSON
 - [ ] Get Geo-location Data
 
 ### Intermediate Front End Development Projects
