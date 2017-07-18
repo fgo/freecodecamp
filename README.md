@@ -285,7 +285,7 @@ Front End Development challenges.
 - [x] Convert JSON Data to HTML
 - [x] Render Images from Data Sources
 - [x] Prefilter JSON
-- [ ] Get Geo-location Data
+- [x] Get Geo-location Data
 
 ### Intermediate Front End Development Projects
 

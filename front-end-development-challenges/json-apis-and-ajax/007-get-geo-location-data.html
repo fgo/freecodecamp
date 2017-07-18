@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Get Geo-location Data - Front End Development Certification</title>
+  <meta name="description" content="JSON APIs and Ajax Challenge">
+  <meta name="author" content="Francis Go">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+</head>
+<body>
+  <script>
+    $(document).ready(function() {
+    // Only change code below this line.
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(function(position) {
+        $("#data").html("latitude: " + position.coords.latitude + "<br>longitude: " + position.coords.longitude);
+      });
+    }
+    // Only change code above this line.
+    });
+  </script>
+
+  <div id = "data">
+    <h4>You are here:</h4>
+  </div>
+</body>
+</html>
